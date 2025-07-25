@@ -73,7 +73,7 @@
 ### 📫 Let's Connect
 
 <!-- 🔗 [Portfolio](https://your-portfolio-link.com)-->
-- 💼 [LinkedIn](www.linkedin.com/in/dina-ahd)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dina-ahd/)
 - 📧 Email: dinaahd7@gmail.com
 
 ---
