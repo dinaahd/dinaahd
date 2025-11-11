@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **2nd-year Computer Science Engineering** student.
+- 🎓 I'm a **3rd-year Computer Science Engineering** student.
 - 🧠 Focused on building **AI-powered solutions**, **scalable web applications**, and creating **intuitive UI/UX** designs.
 - 🛠️ Currently learning: **AI/ML**, **Full Stack Development (MERN)**, and **Data Structures & Algorithms (DSA)**.
 - ⚡ Fun fact: I love working on **hackathon challenges** and building **futuristic apps**!
